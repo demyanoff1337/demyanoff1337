@@ -1,5 +1,5 @@
 <div id="header" align="center">
-<h4>Hi 👋 I am Dmitry - web-developer from Moscow, Russia</h4>
+<h4>Hi 👋 I am web-developer from Moscow, Russia</h4>
 <br>
   <img src="https://media.giphy.com/media/Yx5ns1mSPBle0/giphy.gif" width="300"/>
   
